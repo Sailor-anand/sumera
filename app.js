@@ -4,6 +4,6 @@ app.get('/',(req,res)=>{
   res.send("Hello world anand");
 }
 );
-app.listen(20,()=>{
-  console.log("server is at 20");
+app.listen(500,()=>{
+  console.log("server is at 500");
 } );
